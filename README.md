@@ -33,13 +33,12 @@ I love crafting clean UI, smooth UX, and scalable applications.
 
 ## 🎲 Fun Corner  
 
-### 🔥 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📖 Favorite Quote  
 
-### 🐍 Snake Eating Contributions
-![snake gif](https://github.com/NoireArc/NoireArc/blob/output/github-contribution-grid-snake.svg)
+> *“Dividing an impossibly large task into smaller solvable problems is a programmer’s job.”*  
+> — **Akasaka Ryuunosuke**, *Sakurasou no Pet na Kanojo* (Ep. 20)  
 
-### 👀 Visitor Count
+### 👀 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=NoireArc&style=for-the-badge)
 
 ---
