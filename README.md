@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandra Yulius  
+# Hi, I'm Chandra Yulius  
 
 Front-End Developer & UI/UX Enthusiast passionate about building interactive web and mobile applications.  
 I love crafting clean UI, smooth UX, and scalable applications.  
@@ -31,19 +31,19 @@ I love crafting clean UI, smooth UX, and scalable applications.
 
 ---
 
-## 🎲 Fun Corner  
+## Fun Corner  
 
-### 📖 Favorite Quote  
+### Favorite Quote  
 
 > *“Dividing an impossibly large task into smaller solvable problems is a programmer’s job.”*  
 > — **Akasaka Ryuunosuke**, *Sakurasou no Pet na Kanojo* (Ep. 20)  
 
-### 👀 Visitor Count  
+### Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=NoireArc&style=for-the-badge)
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/chandrayulius12/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](www.linkedin.com/in/chandra-yulius)  
