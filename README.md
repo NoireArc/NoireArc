@@ -21,7 +21,10 @@ I love crafting clean UI, smooth UX, and scalable applications.
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
 
 ### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
 
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
