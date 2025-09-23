@@ -9,6 +9,7 @@ I love crafting clean UI, smooth UX, and scalable applications.
 
 ### Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-pink?logo=vite&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
